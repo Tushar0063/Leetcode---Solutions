@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
