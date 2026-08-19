@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -51,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
+| [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
+| [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 ## Dynamic Programming
 |  |
 | ------- |
