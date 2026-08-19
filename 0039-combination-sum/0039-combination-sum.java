@@ -1,28 +1,45 @@
 class Solution {
 
-public void Solve(int [] candidates , int target , int currSum , int i ,  List<List<Integer>> ans ,   List<Integer> curr  ){
+public void Solve(int [] candidates , int target , int currSum , int start ,  List<List<Integer>> ans ,   List<Integer> curr  ){
 
-    if (currSum == target ){
+    // repalce i wiht start index for 2nd approach 
+
+    // if (currSum == target ){
+    //     ans.add(new ArrayList<>(curr));
+    //     return ;
+    // }
+
+    // if (i >= candidates.length  || currSum > target ) {
+    //     return ;
+    // }
+
+    // // take 
+    // curr.add(candidates[i]);
+
+    // Solve(candidates , target , currSum + candidates[i] , i , ans ,curr);
+
+    // // 
+    // curr.remove(curr.size() - 1);
+
+    // // skip
+
+    // Solve(candidates , target , currSum , i+1 , ans , curr );
+
+
+      // 2nd approach 
+
+      if(currSum == target ){
         ans.add(new ArrayList<>(curr));
         return ;
-    }
+      }  
 
-    if (i >= candidates.length  || currSum > target ) {
-        return ;
-    }
-
-    // take 
-    curr.add(candidates[i]);
-
-    Solve(candidates , target , currSum + candidates[i] , i , ans ,curr);
-
-    // 
-    curr.remove(curr.size() - 1);
-
-    // skip
-
-    Solve(candidates , target , currSum , i+1 , ans , curr );
-
+      if(currSum > target ) return ;
+    
+      for (int i = start ; i< candidates.length ; i++){
+        curr.add(candidates[i]);
+        Solve(candidates , target , currSum + candidates[i] , i , ans , curr);
+        curr.remove(curr.size() - 1);
+      }
 }
 
 
@@ -33,9 +50,11 @@ public void Solve(int [] candidates , int target , int currSum , int i ,  List<L
         List<Integer> curr = new ArrayList<>();
 
 
-       Solve(candidates , target , 0 , 0 , ans , curr );
+        Solve(candidates , target , 0 , 0 , ans , curr );
 
               
-       return ans ; 
+        return ans ; 
+
+    
     }
 }
