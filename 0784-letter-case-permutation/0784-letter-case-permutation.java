@@ -12,8 +12,8 @@ if ( i >= s.length()){
 
 if (Character.isDigit(ch)){
 
-    Solve(ans , curr + Character.toLowerCase(ch) , i+1 ,s);
-    
+    Solve(ans , curr + ch , i+1 ,s);
+
 } 
 else{
  Solve(ans , curr + Character.toLowerCase(ch) , i+1 ,s);
