@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -60,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -80,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
