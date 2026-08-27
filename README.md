@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 ## String
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
+| [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 ## Hamiltonian Path
 |  |
 | ------- |
