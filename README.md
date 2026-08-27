@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
+| [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 ## String
 |  |
 | ------- |
@@ -91,4 +94,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
+| [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
