@@ -3,7 +3,7 @@ class Solution {
     public int Solve(int [][]grid , int r , int c ,boolean [][] visit , int cells ){
 
         int m = grid.length;
-        int n = grid[0].length;
+        int n = grid[0].length;  
 
 
 
