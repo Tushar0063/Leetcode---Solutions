@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Recursion
