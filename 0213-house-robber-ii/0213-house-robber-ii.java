@@ -1,36 +1,42 @@
 class Solution {
 
-    static int[] dp;
-
-    public int sol(int[] nums, int i, int end) {
-
+    public int Solve(int [] nums , int i  ,int end ,  int [] dp){
+      
+      int n = nums.length;
         if (i > end) return 0;
+        if(dp[i] != -1) return dp[i];
 
-        if (dp[i] != -1) return dp[i];
 
-        int rob = nums[i] + sol(nums, i + 2, end);
-        int skip = sol(nums, i + 1, end);
+      int take =nums[i] +  Solve(nums,i+2 , end ,dp );
+      int skip = Solve(nums , i+1 ,end ,dp );
 
-        return dp[i] = Math.max(rob, skip); 
+      dp[i] = Math.max(take,skip);
+      return dp[i];
+
+
+
+
     }
-
-    public int rob(int[] nums, int st, int end) {
-
-        dp = new int[nums.length];
-        Arrays.fill(dp, -1);
-
-        return sol(nums, st, end);
-    }
-
     public int rob(int[] nums) {
-
+        
         int n = nums.length;
+        int [] dp1 = new int [n];
 
-        if (n == 1) return nums[0];
 
-        int inc = rob(nums, 1, n - 1);
-        int exc = rob(nums, 0, n - 2);
+        Arrays.fill(dp1,-1);
+        
+        if(n==1) return nums[0];
 
-        return Math.max(inc, exc);
+        int one = Solve(nums , 0 , n-2 ,dp1);
+
+        int [] dp2 = new int [n];
+         Arrays.fill(dp2,-1);
+        int two= Solve(nums , 1 , n-1 , dp2);
+
+        return Math.max(one , two);
+
+         
+
+        
     }
 }
