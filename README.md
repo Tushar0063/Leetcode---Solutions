@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
