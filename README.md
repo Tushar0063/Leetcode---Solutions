@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
+| [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 ## Bracket Sequences
 |  |
 | ------- |
