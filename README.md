@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
