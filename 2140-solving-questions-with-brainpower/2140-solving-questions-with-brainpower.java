@@ -55,13 +55,13 @@ class Solution {
 
         for(int i = n-1 ; i>= 0 ;i--){
             long  skip = dp[i+1];
-             long take = questions[i][0];
+            long take = questions[i][0];
              int nextIndex = i + questions[i][1]  + 1;
 
              if(nextIndex < n){
                 take += dp[nextIndex];
              }
-
+        
 
          dp[i] = Math.max(take,skip);
         }
