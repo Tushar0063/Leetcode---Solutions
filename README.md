@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
