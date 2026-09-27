@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Bracket Sequences
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
+| [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Hamiltonian Path
 |  |
