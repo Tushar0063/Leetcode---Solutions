@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0576-out-of-boundary-paths) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
+| [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0174-dungeon-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
