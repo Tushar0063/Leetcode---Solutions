@@ -9,7 +9,7 @@ public int Solve(int n , int x ,  int [] arr , int curr , int i , int [][] dp){
     if (dp[i][curr] != -1 )  return dp[i][curr];
   
 
-    int skip = Solve( n, x , arr , curr , i+1 , dp);
+    int skip = Solve( n, x , arr , curr , i+1 , dp); 
     int take =  0 ;
     if (curr + arr[i] <= n){
         take = Solve(n ,x , arr , curr + arr[i] , i+1 , dp); 
