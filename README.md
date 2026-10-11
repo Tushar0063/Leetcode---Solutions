@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0576-out-of-boundary-paths](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0576-out-of-boundary-paths) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
@@ -218,9 +221,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
