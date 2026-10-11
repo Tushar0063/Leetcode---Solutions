@@ -11,17 +11,20 @@ class Solution {
             return 0 ;
         }}
 
+     
+      //if (dp[i][curr] != null) return dp[i][curr];
 
-
-       
-      
-      int take = Solve(nums , target ,nums[i] + curr  , i+1);
+      int take = Solve(nums , target ,nums[i] + curr  , i+1 );
     
         int skip = Solve(nums , target , curr - nums[i] , i+1);
 
         return (skip + take );
     }
     public int findTargetSumWays(int[] nums, int target) {
+
+        int n = nums.length ;
+
+
 
 return Solve(nums , target , 0 , 0);
 
