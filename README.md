@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -239,5 +243,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
