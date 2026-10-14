@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
+| [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
@@ -231,12 +234,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Complete Knapsack
