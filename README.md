@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Bit Manipulation
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0090-subsets-ii) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
+| [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Depth-First Search
 |  |
 | ------- |
