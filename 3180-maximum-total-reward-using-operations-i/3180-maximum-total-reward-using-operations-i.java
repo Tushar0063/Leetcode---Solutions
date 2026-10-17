@@ -24,10 +24,7 @@ class Solution {
 
         Arrays.sort(rewardValues);
         int n = rewardValues.length;
-        //    int sum = 0 ;
-        //    for (int i = 0 ; i < n ; i++){
-        //     sum += rewardValues[i];
-        //    }
+
 
         int [][] dp = new int [n+1][10000];
         for (int [] num : dp){
@@ -39,3 +36,13 @@ class Solution {
 
     }
 }
+
+// class Solution {
+//       public int maxTotalReward(int[] rewardValues) {
+
+//        int n = rewardValues.length ;
+
+//        int [][] dp = new int 
+
+//       }
+//       }
