@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
+| [2235-add-two-integers](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2235-add-two-integers) |
 ## Greedy
 |  |
 | ------- |
