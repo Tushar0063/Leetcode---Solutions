@@ -47,39 +47,7 @@ class Solution {
 //             }
 //         }
 
-
-for (int i = 0 ;i <= m ;i++){
-    for (int j = 0 ; j <= n ;j++){
-        dp[n][i][j] = 0 ;
-    }
-}
-
 // return Solve(strs , m, n , 0 , dp );
-
-
-       for(int i = 0 ; i < l ; i++){    
-        String temp = strs[i];
-
-int zeros = 0 ;
-int ones = 0 ;
-
-for(int j = 0 ; j < temp.length() ; j++){
-if (temp.charAt(j) == '0'  ){
-        zeros++;
-} else{
-    ones++;
-}   }
-       
-
-for (int  z = m ; z>= 0 ; z--){
-    for (int x = n ; x >= 0 ; x--){
-        dp[i][z][x] = Math.max(dp[i][z][x] ,  1 + dp[i][z-zeros][x - ones]);
-    }
-}
-
-}
-return dp [0][m][n];
-
     }
 
 }
