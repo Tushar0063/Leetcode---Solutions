@@ -46,11 +46,14 @@ if (op2 > 0 && nums[i] >= k){
 return  dp[i][op1][op2] =   Math.min(take , Math.min(take1 , Math.min(take2 , Math.min(take3,take4))));
 
     }
+
+
     public int minArraySum(int[] nums, int k, int op1, int op2) {
         
 
 
         int [][][] dp = new int [nums.length + 1 ][op1+1][op2+1];
+
  for (int i = 0 ; i<= nums.length ; i++){
     for (int j = 0 ; j <= op1 ; j++){
         for(int m = 0 ; m <= op2 ; m++){
@@ -59,7 +62,14 @@ return  dp[i][op1][op2] =   Math.min(take , Math.min(take1 , Math.min(take2 , Ma
     }
  }
 
+// for (int i = 0 ; i <= op1 ; i++){
+// for (int j = 0 ; j <= op2 ; j++){
+//     dp[nums.length][i][j] =  0 ;
+// }}
 
+
+
+    
         return Solve(nums ,  k ,op1 ,op2 , 0 , dp);
-    }
-}
+    
+    }}
