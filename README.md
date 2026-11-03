@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1463-cherry-pickup-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -260,4 +261,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
