@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Knapsack Problem
 |  |
 | ------- |
