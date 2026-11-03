@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
+| [2574-left-and-right-sum-differences](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
@@ -267,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
