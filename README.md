@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0518-coin-change-ii) |
+| [0724-find-pivot-index](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -264,5 +265,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
