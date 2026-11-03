@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
