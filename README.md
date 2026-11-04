@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1463-cherry-pickup-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1463-cherry-pickup-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Knapsack Problem
 |  |
 | ------- |
