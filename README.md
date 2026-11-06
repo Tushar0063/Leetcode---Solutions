@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Knapsack Problem
 |  |
 | ------- |
