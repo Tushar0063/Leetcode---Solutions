@@ -9,15 +9,16 @@ class Solution {
         int count = 0;
 
         while (e < n) {
+
             current += arr[e];
 
             int maxSum = current / k;
-
             if (e - st + 1 == k) {
 
                 if (maxSum >= threshold) {
                     count++;
                 }
+
                 current -= arr[st];
                 st++;
             }
