@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0091-decode-ways) |
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
+| [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
 ## Memoization
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Two Pointers
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
