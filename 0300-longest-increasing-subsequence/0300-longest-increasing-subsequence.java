@@ -1,5 +1,8 @@
 class Solution {
 
+
+// curr , prev are the indices of the nums array.
+
     public int Solve(int nums [] , int curr , int prev , int [][] dp){
 
         int n = nums.length;
@@ -21,10 +24,10 @@ class Solution {
         
         int n= nums.length  ;
 
- int [][] dp = new int [n+2][n+2];
+ int [][] dp = new int [n+1][n+1];
 
- for (int i = 0 ; i < n+2 ; i++){
-    for (int j = 0 ; j < n+2 ; j++){
+ for (int i = 0 ; i < n+1 ; i++){
+    for (int j = 0 ; j < n+1 ; j++){
 
         dp[i][j] = -1 ;
     }
