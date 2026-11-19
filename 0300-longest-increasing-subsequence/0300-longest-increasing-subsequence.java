@@ -38,33 +38,52 @@ class Solution {
 
         // TABULATION 
 
-        int n = nums.length;
+        // int n = nums.length;
 
-        // int [][] dp = new int [n][n+1];
+        // int[] dp = new int[n + 1];
+        // Arrays.fill(dp, 1);
+        // int len = 1;
 
-        // for (int i = n-1 ; i >= 0 ; i-- ){
-        //     for (int j = 1 ; j < n+1 ; j++){
+        // for (int i = 1; i < n; i++) {
+        //     for (int j = i - 1; j >= 0; j--) {
 
-        //         dp[i][j] = Math.max(dp[i+1][j] , 1 + dp[i+1][j-1]);
+        //         if (nums[i] > nums[j]) {
+
+        //             dp[i] = Math.max(dp[i], 1 + dp[j]);
+        //         }
         //     }
+
+        //     len = Math.max(len, dp[i]);
         // }
-        // return dp[0][0];
+        // return len;
 
-           int [] dp = new int[n+1];
-           Arrays.fill(dp ,1);
-           int len =  1;
 
-           for (int i = 1 ; i < n ; i++ ){
-            for(int j = i-1 ; j >= 0 ; j--){
+     // PATIENCE SORTING 
 
-                if (nums[i] > nums[j]){
-                    
-                    dp[i] = Math.max(dp[i] ,  1 + dp[j]);
-                }
-            }
+     ArrayList<Integer> ans =  new ArrayList<>();
+      
+      for (int i = 0 ; i < nums.length ; i++){
+     int low = 0 ;
+     int high = ans.size() - 1 ;
+     int Ca = nums[i] ;
 
-            len = Math.max( len  , dp[i]);
-           }
-           return len;
+     while( low <= high ){
+
+   int mid  = low + (high - low )/2;
+
+   if (ans.get(mid) >= Ca){
+   high = mid - 1 ;
+   } else{
+
+   low = mid + 1  ;
+   }
+     }
+     if (low == ans.size()){
+        ans.add(Ca);
+     } else{
+        ans.set(low , Ca);
+     }
+      }
+      return ans.size();
     }
 }
