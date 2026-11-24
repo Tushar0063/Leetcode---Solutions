@@ -45,9 +45,13 @@ int m = grid.length;
 
 dp[m-1][n-1] = grid[m-1][n-1];
 
+// for filling from last row , last column to first row, last column(down to up )
+
 for(int i = m- 2 ; i >= 0 ; i--){
     dp[i][n-1] = grid[i][n-1] + dp[i+1][n-1];
 }
+
+// for last row ,last column to last row , first column (right to left)
 for(int j = n-2 ; j >= 0 ; j--){
     dp[m-1][j] =grid[m-1][j] + dp[m-1][j+1];
 }
