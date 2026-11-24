@@ -21,11 +21,13 @@ class Solution {
 
 return dp[r][c]  ;
 
-    }
+   }
     public int minPathCost(int[][] grid, int[][] moveCost) {
         
-        int sc = 0 ;
+         int sc = 0 ;
         int ans = Integer.MAX_VALUE;
+int m = grid.length ;
+int n = grid[0].length ;
 
         int [][] dp = new int [grid.length][grid[0].length];
 
@@ -41,5 +43,21 @@ return dp[r][c]  ;
 
           }
         return ans ;
-    }
-}
+
+    //     dp[m-1][n-1] = grid[m-1][n-1];
+    //     dp[m-1][n-2] = grid[m-1][n-2];
+ 
+
+    //          for (int i = m-2 ; i >= 0 ;i--){
+    //         for (int col = 0  ; col < grid[0].length ; col++){
+    //          for (int nextcol = 0 ; nextcol < grid[0].length ; nextcol++ ){
+
+    //        dp[i][col]   = grid[i][col] + moveCost[grid[i][col]][nextcol] + dp[i+1][nextcol];
+          
+            
+    //          }
+    //         }
+
+    // }
+    // return dp[0][0];
+}}
