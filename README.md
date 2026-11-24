@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [2029-stone-game-ix](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2029-stone-game-ix) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2574-left-and-right-sum-differences](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2140-solving-questions-with-brainpower](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2140-solving-questions-with-brainpower) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1463-cherry-pickup-ii) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 ## Hamiltonian Path
