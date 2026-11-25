@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 | [1219-path-with-maximum-gold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1219-path-with-maximum-gold) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0474-ones-and-zeroes) |
 | [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 | [0784-letter-case-permutation](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0784-letter-case-permutation) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0741-cherry-pickup](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0741-cherry-pickup) |
 | [0746-min-cost-climbing-stairs](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1463-cherry-pickup-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0047-permutations-ii) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 | [3180-maximum-total-reward-using-operations-i](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/3180-maximum-total-reward-using-operations-i) |
 ## Depth-First Search
 |  |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0740-delete-and-earn) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 ## Memoization
 |  |
 | ------- |
@@ -304,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/0567-permutation-in-string) |
+| [1048-longest-string-chain](https://github.com/Tushar0063/Leetcode---Solutions/tree/master/1048-longest-string-chain) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
